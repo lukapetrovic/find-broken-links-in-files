@@ -11,9 +11,17 @@ Find broken http and https links in non binary local files.
 [Node.js](http://nodejs.org)
 
 
+## Installation
+
+Download the source code and run:
+
+```shell
+npm install
+```
+
 ## Command Line Usage
 
-Download the source code and in the root of the project run:
+In the root of the project run:
 
 ```shell
 node index C:\Users\Yourname\Desktop\Project
